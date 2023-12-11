@@ -78,7 +78,7 @@
     }
   },
   "optionalDependencies": {
-    "ts-node": ">= 10.9.1"
+    "ts-node": ">= 10.9.2"
   },
   "engines": {
     "node": ">= 10.12.0"
